@@ -1,0 +1,7 @@
+C:\Users\samso\Desktop\Almost chess\Almost chess\bin\Debug\Almost chess.exe.config
+C:\Users\samso\Desktop\Almost chess\Almost chess\bin\Debug\Almost chess.exe
+C:\Users\samso\Desktop\Almost chess\Almost chess\bin\Debug\Almost chess.pdb
+C:\Users\samso\Desktop\Almost chess\Almost chess\obj\Debug\Almost chess.csprojAssemblyReference.cache
+C:\Users\samso\Desktop\Almost chess\Almost chess\obj\Debug\Almost chess.csproj.CoreCompileInputs.cache
+C:\Users\samso\Desktop\Almost chess\Almost chess\obj\Debug\Almost chess.exe
+C:\Users\samso\Desktop\Almost chess\Almost chess\obj\Debug\Almost chess.pdb
